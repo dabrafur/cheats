@@ -32,7 +32,7 @@
 |`ctl` + `mission ctl`| show desk |
 |`ctl` + `ctl`| show desk |
 |`⌘` + `Shift` + `4`| print screen|
-|``⌘` + `Shift` + `5`| start/stop screen record|
+|`⌘` + `Shift` + `5`| start/stop screen record|
 |`⌘` + `Shift` + `Esc`| force quit|
 |`⌘` + `W`| close windown|
 |`⌘` + `shift` + `T`| opens last closed windown |
