@@ -1,6 +1,6 @@
 <h1 align="center"> ◾ a bit of everithing ◾ </h1>
 
-##Shell
+## Shell
 
 |command|description|
 |:---|:---|
